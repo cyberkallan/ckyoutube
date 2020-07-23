@@ -1,8 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
-# Project name : Termux-YTD
-# Coded by: Khansaad1275 (You dont become a coder by just changing the credits)
-# Github: https://github.com/khansaad1275/Termux-YTD
-# Date : 14/4/2020
+# Project name : CKYT
+# Coded by: Arjun arz (You dont become a coder by just changing the credits)
+# Github: https://github.com/cyberkallan/ckyoutube
+# Date : 23/6/2020
 
 echo -e "\e[035m"  "Updating default packages\n"
 apt update && apt upgrade -y
@@ -35,4 +35,4 @@ mv termux-url-opener ~/bin/
 echo -e "\n"
 echo -e "\e[032m" "Process Complete!"
 echo -e "\e[032m" "Now you can share any Youtube video with Termux and you will be ask to select the quality of your downloaded video and after that,It will be automatically dwonloaded"
-echo -e "\e[033m" "©www.LearnTermux.tech"
+echo -e "\e[033m" "©www.cyberkalla.com"
